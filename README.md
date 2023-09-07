@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkumarbharti&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkumarbharti" /> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **dinesh.bharti.be16@gmail.com**
 
